@@ -1,0 +1,21 @@
+.searchspace{
+    width: 500px;
+    border-color: blue;
+    border-radius: 3px;
+    color:green;
+    float: left;
+}
+.button{
+    color:green;
+    border-radius: 3px;
+    float: left;
+    
+}
+.searchspace:hover{
+    color:red;
+
+}
+.button:hover{
+    color:red;
+
+}
